@@ -1,0 +1,286 @@
+record_id,aomd,jobdays,jobhours,jobsalary,type,jobsalarynum,rank
+1,Physician anesthesiologist,3,,3-6 million,govt,4500000,govt
+1,Physician anesthesiologist,3,,3-6 million,job2,4500000,highest
+1,Physician anesthesiologist,,,,job3,,
+1,Physician anesthesiologist,,,,job4,,
+1,Physician anesthesiologist,,5-10 hours,1-2 million,nc,1500000,nc
+2,Physician anesthesiologist,,,,govt,,govt
+2,Physician anesthesiologist,1,,3-6 million,job2,4500000,highest
+2,Physician anesthesiologist,1,,3-6 million,job3,4500000,second
+2,Physician anesthesiologist,,,,job4,,
+2,Physician anesthesiologist,,10-20 hours,2-3 million,nc,2500000,nc
+3,Physician anesthesiologist,5,,1-2 million,govt,1500000,govt
+3,Physician anesthesiologist,2,,2-3 million,job2,2500000,highest
+3,Physician anesthesiologist,,,,job3,,
+3,Physician anesthesiologist,,,,job4,,
+3,Physician anesthesiologist,,,,nc,,nc
+4,Physician anesthesiologist,,,,govt,,govt
+4,Physician anesthesiologist,4,,1-2 million,job2,1500000,highest
+4,Physician anesthesiologist,2,,1-2 million,job3,1500000,second
+4,Physician anesthesiologist,1,,1-2 million,job4,1500000,third
+4,Physician anesthesiologist,,,,nc,,nc
+5,Physician anesthesiologist,5,,2-3 million,govt,2500000,govt
+5,Physician anesthesiologist,1,,1-2 million,job2,1500000,highest
+5,Physician anesthesiologist,,,,job3,,
+5,Physician anesthesiologist,,,,job4,,
+5,Physician anesthesiologist,,0-5 hours,"0-500,000",nc,250000,nc
+6,Physician anesthesiologist,5,,2-3 million,govt,2500000,govt
+6,Physician anesthesiologist,,,,job2,,
+6,Physician anesthesiologist,,,,job3,,
+6,Physician anesthesiologist,,,,job4,,
+6,Physician anesthesiologist,,,,nc,,nc
+7,Physician anesthesiologist,,,,govt,,govt
+7,Physician anesthesiologist,3,,3-6 million,job2,4500000,highest
+7,Physician anesthesiologist,,,,job3,,
+7,Physician anesthesiologist,,,,job4,,
+7,Physician anesthesiologist,,,,nc,,nc
+8,Physician anesthesiologist,4,,2-3 million,govt,2500000,govt
+8,Physician anesthesiologist,2,,2-3 million,job2,2500000,highest
+8,Physician anesthesiologist,1,,1-2 million,job3,1500000,second
+8,Physician anesthesiologist,,,,job4,,
+8,Physician anesthesiologist,,30-40 hours,3-6 million,nc,4500000,nc
+9,Physician anesthesiologist,,,,govt,,govt
+9,Physician anesthesiologist,2,,2-3 million,job2,2500000,highest
+9,Physician anesthesiologist,,,,job3,,
+9,Physician anesthesiologist,,,,job4,,
+9,Physician anesthesiologist,,5-10 hours,"500,000 - 1,000,000",nc,750000,nc
+10,Physician anesthesiologist,3,,3-6 million,govt,4500000,govt
+10,Physician anesthesiologist,2,,6-9 million,job2,7500000,highest
+10,Physician anesthesiologist,,,,job3,,
+10,Physician anesthesiologist,,,,job4,,
+10,Physician anesthesiologist,,0-5 hours,"500,000 - 1,000,000",nc,750000,nc
+11,Physician anesthesiologist,3,,6-9 million,govt,7500000,govt
+11,Physician anesthesiologist,1,,2-3 million,job2,2500000,highest
+11,Physician anesthesiologist,,,,job3,,
+11,Physician anesthesiologist,,,,job4,,
+11,Physician anesthesiologist,,0-5 hours,"0-500,000",nc,250000,nc
+12,Physician anesthesiologist,2,,2-3 million,govt,2500000,govt
+12,Physician anesthesiologist,,,,job2,,
+12,Physician anesthesiologist,,,,job3,,
+12,Physician anesthesiologist,,,,job4,,
+12,Physician anesthesiologist,,,,nc,,nc
+13,Physician anesthesiologist,3,,3-6 million,govt,4500000,govt
+13,Physician anesthesiologist,1,,1-2 million,job2,1500000,highest
+13,Physician anesthesiologist,1,,1-2 million,job3,1500000,second
+13,Physician anesthesiologist,,,,job4,,
+13,Physician anesthesiologist,,,,nc,,nc
+14,Physician anesthesiologist,3,,3-6 million,govt,4500000,govt
+14,Physician anesthesiologist,2,,6-9 million,job2,7500000,highest
+14,Physician anesthesiologist,,,,job3,,
+14,Physician anesthesiologist,,,,job4,,
+14,Physician anesthesiologist,,0-5 hours,"500,000 - 1,000,000",nc,750000,nc
+15,Physician anesthesiologist,,,,govt,,govt
+15,Physician anesthesiologist,2,,6-9 million,job2,7500000,highest
+15,Physician anesthesiologist,4,,3-6 million,job3,4500000,second
+15,Physician anesthesiologist,,,,job4,,
+15,Physician anesthesiologist,,5-10 hours,3-6 million,nc,4500000,nc
+16,Physician anesthesiologist,2,,2-3 million,govt,2500000,govt
+16,Physician anesthesiologist,3,,3-6 million,job2,4500000,highest
+16,Physician anesthesiologist,2,,3-6 million,job3,4500000,second
+16,Physician anesthesiologist,,,,job4,,
+16,Physician anesthesiologist,,,,nc,,nc
+17,Physician anesthesiologist,5,,2-3 million,govt,2500000,govt
+17,Physician anesthesiologist,2,,2-3 million,job2,2500000,highest
+17,Physician anesthesiologist,2,,1-2 million,job3,1500000,second
+17,Physician anesthesiologist,,,,job4,,
+17,Physician anesthesiologist,,,,nc,,nc
+18,Physician anesthesiologist,3,,2-3 million,govt,2500000,govt
+18,Physician anesthesiologist,2,,2-3 million,job2,2500000,highest
+18,Physician anesthesiologist,,,,job3,,
+18,Physician anesthesiologist,,,,job4,,
+18,Physician anesthesiologist,,,,nc,,nc
+19,Physician anesthesiologist,6,,3-6 million,govt,4500000,govt
+19,Physician anesthesiologist,,,,job2,,
+19,Physician anesthesiologist,,,,job3,,
+19,Physician anesthesiologist,,,,job4,,
+19,Physician anesthesiologist,,0-5 hours,"0-500,000",nc,250000,nc
+20,Physician anesthesiologist,1,,3-6 million,govt,4500000,govt
+20,Physician anesthesiologist,,,,job2,,
+20,Physician anesthesiologist,,,,job3,,
+20,Physician anesthesiologist,,,,job4,,
+20,Physician anesthesiologist,,10-20 hours,13-15 million,nc,,nc
+21,Physician anesthesiologist,,,,govt,,govt
+21,Physician anesthesiologist,7,,1-2 million,job2,1500000,highest
+21,Physician anesthesiologist,,,,job3,,
+21,Physician anesthesiologist,,,,job4,,
+21,Physician anesthesiologist,,,,nc,,nc
+22,Physician anesthesiologist,3,,3-6 million,govt,4500000,govt
+22,Physician anesthesiologist,2,,3-6 million,job2,4500000,highest
+22,Physician anesthesiologist,,,,job3,,
+22,Physician anesthesiologist,,,,job4,,
+22,Physician anesthesiologist,,10-20 hours,3-6 million,nc,4500000,nc
+23,Physician anesthesiologist,3,,3-6 million,govt,4500000,govt
+23,Physician anesthesiologist,2,,3-6 million,job2,4500000,highest
+23,Physician anesthesiologist,,,,job3,,
+23,Physician anesthesiologist,,,,job4,,
+23,Physician anesthesiologist,,,,nc,,nc
+24,Physician anesthesiologist,,,,govt,,govt
+24,Physician anesthesiologist,4,,6-9 million,job2,7500000,highest
+24,Physician anesthesiologist,2,,"500,000 - 1,000,000",job3,750000,second
+24,Physician anesthesiologist,1,,"500,000 - 1,000,000",job4,750000,third
+24,Physician anesthesiologist,,5-10 hours,"500,000 - 1,000,000",nc,750000,nc
+25,Anesthetic officer,4,>40,1-2 million,govt,1500000,govt
+25,Anesthetic officer,2,10-20,"500,000 - 1,000,000",job2,750000,highest
+25,Anesthetic officer,,,,job3,,
+25,Anesthetic officer,,,,job4,,
+25,Anesthetic officer,,,,nc,,nc
+26,Anesthetic officer,,,,govt,,govt
+26,Anesthetic officer,3,20-30,1-2 million,job2,1500000,highest
+26,Anesthetic officer,,,,job3,,
+26,Anesthetic officer,,,,job4,,
+26,Anesthetic officer,,,,nc,,nc
+27,Anesthetic officer,4,20-30,2-3 million,govt,2500000,govt
+27,Anesthetic officer,,,,job2,,
+27,Anesthetic officer,,,,job3,,
+27,Anesthetic officer,,,,job4,,
+27,Anesthetic officer,,,,nc,,nc
+28,Anesthetic officer,3,20-30,1-2 million,govt,1500000,govt
+28,Anesthetic officer,,,,job2,,
+28,Anesthetic officer,,,,job3,,
+28,Anesthetic officer,,,,job4,,
+28,Anesthetic officer,,,,nc,,nc
+29,Anesthetic officer,4,30-40,1-2 million,govt,1500000,govt
+29,Anesthetic officer,,,,job2,,
+29,Anesthetic officer,,,,job3,,
+29,Anesthetic officer,,,,job4,,
+29,Anesthetic officer,,5-10 hours,"0-500,000",nc,250000,nc
+30,Anesthetic officer,4,20-30,1-2 million,govt,1500000,govt
+30,Anesthetic officer,2,10-20,"500,000 - 1,000,000",job2,750000,highest
+30,Anesthetic officer,,,,job3,,
+30,Anesthetic officer,,,,job4,,
+30,Anesthetic officer,,,,nc,,nc
+31,Anesthetic officer,3,30-40,"500,000 - 1,000,000",govt,750000,govt
+31,Anesthetic officer,,,,job2,,
+31,Anesthetic officer,,,,job3,,
+31,Anesthetic officer,,,,job4,,
+31,Anesthetic officer,,>40 hours,"500,000 - 1,000,000",nc,750000,nc
+32,Anesthetic officer,,,,govt,,govt
+32,Anesthetic officer,5,>40,1-2 million,job2,1500000,highest
+32,Anesthetic officer,4,>40,"500,000 - 1,000,000",job3,750000,second
+32,Anesthetic officer,,,,job4,,
+32,Anesthetic officer,,0-5 hours,1-2 million,nc,1500000,nc
+37,Anesthetic officer,5,>40,1-2 million,govt,1500000,govt
+37,Anesthetic officer,,,,job2,,
+37,Anesthetic officer,,,,job3,,
+37,Anesthetic officer,,,,job4,,
+37,Anesthetic officer,,,,nc,,nc
+38,Anesthetic officer,4,30-40,"500,000 - 1,000,000",govt,750000,govt
+38,Anesthetic officer,3,20-30,"500,000 - 1,000,000",job2,750000,highest
+38,Anesthetic officer,,,,job3,,
+38,Anesthetic officer,,,,job4,,
+38,Anesthetic officer,,0-5 hours,"0-500,000",nc,250000,nc
+39,Anesthetic officer,4,>40,1-2 million,govt,1500000,govt
+39,Anesthetic officer,3,>40,"500,000 - 1,000,000",job2,750000,highest
+39,Anesthetic officer,,,,job3,,
+39,Anesthetic officer,,,,job4,,
+39,Anesthetic officer,,,,nc,,nc
+40,Anesthetic officer,3,>40,1-2 million,govt,1500000,govt
+40,Anesthetic officer,3,30-40,"0-500,000",job2,250000,highest
+40,Anesthetic officer,,,,job3,,
+40,Anesthetic officer,,,,job4,,
+40,Anesthetic officer,,0-5 hours,"0-500,000",nc,250000,nc
+41,Anesthetic officer,4,>40,1-2 million,govt,1500000,govt
+41,Anesthetic officer,3,>40,"500,000 - 1,000,000",job2,750000,highest
+41,Anesthetic officer,,,,job3,,
+41,Anesthetic officer,,,,job4,,
+41,Anesthetic officer,,0-5 hours,"0-500,000",nc,250000,nc
+42,Anesthetic officer,4,1-10,1-2 million,govt,1500000,govt
+42,Anesthetic officer,2,1-10,"0-500,000",job2,250000,highest
+42,Anesthetic officer,,,,job3,,
+42,Anesthetic officer,,,,job4,,
+42,Anesthetic officer,,,,nc,,nc
+43,Physician anesthesiologist,,,,govt,,govt
+43,Physician anesthesiologist,4,1-10,"500,000 - 1,000,000",job2,750000,highest
+43,Physician anesthesiologist,4,20-30,6-9 million,job3,7500000,second
+43,Physician anesthesiologist,,,,job4,,
+43,Physician anesthesiologist,,0-5 hours,"0-500,000",nc,250000,nc
+44,Physician anesthesiologist,,,,govt,,govt
+44,Physician anesthesiologist,2,10-20,"500,000 - 1,000,000",job2,750000,highest
+44,Physician anesthesiologist,,,,job3,,
+44,Physician anesthesiologist,,,,job4,,
+44,Physician anesthesiologist,,5-10 hours,"0-500,000",nc,250000,nc
+45,Physician anesthesiologist,3,20-30,2-3 million,govt,2500000,govt
+45,Physician anesthesiologist,2,10-20,3-6 million,job2,4500000,highest
+45,Physician anesthesiologist,,,,job3,,
+45,Physician anesthesiologist,,,,job4,,
+45,Physician anesthesiologist,,10-20 hours,1-2 million,nc,1500000,nc
+46,Physician anesthesiologist,2,20-30,2-3 million,govt,2500000,govt
+46,Physician anesthesiologist,2,20-30,2-3 million,job2,2500000,highest
+46,Physician anesthesiologist,1,10-20,1-2 million,job3,1500000,second
+46,Physician anesthesiologist,,,,job4,,
+46,Physician anesthesiologist,,20-30 hours,2-3 million,nc,2500000,nc
+47,Physician anesthesiologist,4,>40,1-2 million,govt,1500000,govt
+47,Physician anesthesiologist,1,10-20,3-6 million,job2,4500000,highest
+47,Physician anesthesiologist,1,10-20,3-6 million,job3,4500000,second
+47,Physician anesthesiologist,,,,job4,,
+47,Physician anesthesiologist,,0-5 hours,2-3 million,nc,2500000,nc
+48,Physician anesthesiologist,2,10-20,2-3 million,govt,2500000,govt
+48,Physician anesthesiologist,2,10-20,3-6 million,job2,4500000,highest
+48,Physician anesthesiologist,1,1-10,2-3 million,job3,2500000,second
+48,Physician anesthesiologist,,,,job4,,
+48,Physician anesthesiologist,,,,nc,,nc
+51,Physician anesthesiologist,4,>40,3-6 million,govt,4500000,govt
+51,Physician anesthesiologist,1,1-10,3-6 million,job2,4500000,highest
+51,Physician anesthesiologist,,,,job3,,
+51,Physician anesthesiologist,,,,job4,,
+51,Physician anesthesiologist,,20-30 hours,2-3 million,nc,2500000,nc
+52,Anesthetic officer,4,>40,2-3 million,govt,2500000,govt
+52,Anesthetic officer,5,>40,1-2 million,job2,1500000,highest
+52,Anesthetic officer,,,,job3,,
+52,Anesthetic officer,,,,job4,,
+52,Anesthetic officer,,,,nc,,nc
+53,Physician anesthesiologist,3,20-30,2-3 million,govt,2500000,govt
+53,Physician anesthesiologist,,,,job2,,
+53,Physician anesthesiologist,,,,job3,,
+53,Physician anesthesiologist,,,,job4,,
+53,Physician anesthesiologist,,,,nc,,nc
+54,Anesthetic officer,3,20-30,1-2 million,govt,1500000,govt
+54,Anesthetic officer,2,10-20,1-2 million,job2,1500000,highest
+54,Anesthetic officer,,,,job3,,
+54,Anesthetic officer,,,,job4,,
+54,Anesthetic officer,,,,nc,,nc
+55,Anesthetic officer,3,20-30,"500,000 - 1,000,000",govt,750000,govt
+55,Anesthetic officer,2,20-30,"500,000 - 1,000,000",job2,750000,highest
+55,Anesthetic officer,3,20-30,"500,000 - 1,000,000",job3,750000,second
+55,Anesthetic officer,,,,job4,,
+55,Anesthetic officer,,,,nc,,nc
+56,Anesthetic officer,3,30-40,1-2 million,govt,1500000,govt
+56,Anesthetic officer,3,20-30,2-3 million,job2,2500000,highest
+56,Anesthetic officer,,,,job3,,
+56,Anesthetic officer,,,,job4,,
+56,Anesthetic officer,,,,nc,,nc
+57,Anesthetic officer,4,>40,1-2 million,govt,1500000,govt
+57,Anesthetic officer,3,30-40,1-2 million,job2,1500000,highest
+57,Anesthetic officer,,,,job3,,
+57,Anesthetic officer,,,,job4,,
+57,Anesthetic officer,,10-20 hours,2-3 million,nc,2500000,nc
+58,Anesthetic officer,,,,govt,,govt
+58,Anesthetic officer,3,>40,"500,000 - 1,000,000",job2,750000,highest
+58,Anesthetic officer,3,10-20,"0-500,000",job3,250000,second
+58,Anesthetic officer,,,,job4,,
+58,Anesthetic officer,,,,nc,,nc
+59,Anesthetic officer,4,>40,2-3 million,govt,2500000,govt
+59,Anesthetic officer,3,10-20,3-6 million,job2,4500000,highest
+59,Anesthetic officer,3,10-20,3-6 million,job3,4500000,second
+59,Anesthetic officer,,,,job4,,
+59,Anesthetic officer,,0-5 hours,9-11 million,nc,10000000,nc
+60,Anesthetic officer,4,30-40,1-2 million,govt,1500000,govt
+60,Anesthetic officer,,,,job2,,
+60,Anesthetic officer,,,,job3,,
+60,Anesthetic officer,,,,job4,,
+60,Anesthetic officer,,,,nc,,nc
+61,Physician anesthesiologist,6,>40,2-3 million,govt,2500000,govt
+61,Physician anesthesiologist,,,,job2,,
+61,Physician anesthesiologist,,,,job3,,
+61,Physician anesthesiologist,,,,job4,,
+61,Physician anesthesiologist,,0-5 hours,"0-500,000",nc,250000,nc
+62,Physician anesthesiologist,3,>40,3-6 million,govt,4500000,govt
+62,Physician anesthesiologist,2,20-30,2-3 million,job2,2500000,highest
+62,Physician anesthesiologist,,,,job3,,
+62,Physician anesthesiologist,,,,job4,,
+62,Physician anesthesiologist,,,,nc,,nc
+63,Physician anesthesiologist,3,>40,3-6 million,govt,4500000,govt
+63,Physician anesthesiologist,2,20-30,2-3 million,job2,2500000,highest
+63,Physician anesthesiologist,,,,job3,,
+63,Physician anesthesiologist,,,,job4,,
+63,Physician anesthesiologist,,,,nc,,nc
